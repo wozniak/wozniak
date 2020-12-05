@@ -1,6 +1,8 @@
 ### hi there 👋
 
-i'm a self-taught rust developer from richmond, va and i currently have a couple projects
+i'm a self-taught rust developer from richmond, va
+
+##### projects
 - [advent of code challenges](https://github.com/wozniak/aoc-2020)
 - [peroxide](https://github.com/wozniak/peroxide) programming lang
 
