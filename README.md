@@ -1,6 +1,7 @@
 ### hi there 👋
 
-i'm a self-taught rust developer from richmond, va
+i write code. most of it is bad
 
 ### projects
-- portal tools (on github soon)
+- portal tools
+- dlzip
